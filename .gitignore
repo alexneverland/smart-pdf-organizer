@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Ρυθμίσεις χρήστη (για να μην ανεβάσεις τα δικά σου paths)
+settings.json
+
+# Φάκελοι build (αν το κάνεις exe)
+build/
+dist/
+*.spec
+
+# Virtual Environment
+venv/
+env/

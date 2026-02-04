@@ -1,0 +1,2 @@
+CONFIDENCE_THRESHOLD = 0.6
+GROUPS_FILE = "groups.json"

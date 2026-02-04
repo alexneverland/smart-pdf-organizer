@@ -1,0 +1,39 @@
+{
+  "groups": [
+    {
+      "name": "Παραγγελίες",
+      "type": "PAR",
+      "keywords": [
+        "ΠΑΡΑΓΓΕΛΙΑ",
+        "PARAGGELIA",
+        "PURCHASE ORDER",
+        "PURCHASE",
+        "ORDER",
+        "ITEM",
+        "ITEM CODE",
+        "είδους προμηθ",
+        "ΚΩΔ.ΕΙΔΟΥΣ ΠΡΟΜΗ"
+      ]
+    },    
+    {
+      "name": "Τιμολόγια",
+      "type": "TIMOL",
+      "keywords": [
+        "ΤΙΜΟΛΟΓΙΟ",
+        "INVOICE",
+        "ΦΠΑ",
+        "ΑΦΜ"
+      ]
+    },
+    {
+      "name": "Αποδείξεις",
+      "type": "APOD",
+      "keywords": [
+        "ΑΠΟΔΕΙΞΗ",
+        "ΠΑΡΑΣΤΑΤΙΚΟ",
+        "ΣΥΝΟΛΟ"
+      ]
+    }
+
+  ]
+}
